@@ -1,2 +1,6 @@
 # Algorithm-study
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+---------------------------------------
+## Baekjoon
+
+### Silver
+- [ ] 2407. 조합
