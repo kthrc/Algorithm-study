@@ -14,11 +14,11 @@ stack = []
 # 1번 컴퓨터부터 시작
 visited = [False] * (n_computer + 1)
 for i in range(n_link):
-    a, b = map(int, input().split(' '))
+    p1, p2 = map(int, input().split(' '))
         
     # 양방향
-    graph[a].append(b)
-    graph[b].append(a)
+    graph[p1].append(p2)
+    graph[p2].append(p1)
 
 # 1번 컴퓨터부터 시작
 dfs(1)   
