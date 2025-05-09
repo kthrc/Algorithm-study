@@ -9,7 +9,6 @@ n_link = int(input())
 
 # 빈 그래프 생성
 graph = [[] for _ in range(n_computer+1)]
-stack = []
 
 # 1번 컴퓨터부터 시작
 visited = [False] * (n_computer + 1)
