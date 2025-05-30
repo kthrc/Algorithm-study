@@ -1,33 +1,35 @@
-def is_valid(s):
+def is_Valid(s):
     stack = []
     for ch in s:
-        if ch in '([{':  # 여는 괄호는 스택에 넣기
+        # 여는 괄호면
+        if ch in '({[':
             stack.append(ch)
-        else:  # 닫는 괄호인 경우
+        # 닫는 괄호면
+        else:
+            #  닫는 괄호인데 스택 비어있으면
             if not stack:
-                return False  # 스택이 비었으면 짝이 안 맞는 것
+                return False
+            # 괄호 처리
             top = stack.pop()
-            # 닫는 괄호가 스택에서 꺼낸 괄호랑 짝이 안 맞으면 false
+            
             if ch == ')' and top != '(':
                 return False
-            if ch == ']' and top != '[':
+            elif ch == '}' and top != '{':
                 return False
-            if ch == '}' and top != '{':
+            elif ch == ']' and top != '[':
                 return False
-    # 스택이 비어 있어야 올바른 괄호(0이면 true 아님 false)
+            
     return len(stack) == 0
-
-def rotate_string(s, i):
-    result = ''
-    length = len(s)
-    for j in range(length):
-        result += s[(i + j) % length]  # 회전된 문자열 만들기
-    return result
-
+            
 def solution(s):
+    answer = -1
     count = 0
     for i in range(len(s)):
-        rotated = rotate_string(s, i)  # 문자열 회전
-        if is_valid(rotated):  # 올바른 괄호인지 확인
+        # 회전
+        rotated = s[i:] + s[:i]
+        # print(rotated)
+        
+        if(is_Valid(list(rotated))):
             count += 1
+    
     return count
