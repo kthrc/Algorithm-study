@@ -73,3 +73,19 @@
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
 | 200  | Number of Islands               | ✅   |   |   |            |    |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/kthrc/Algorithm-study/tree/main/0739-daily-temperatures/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/kthrc/Algorithm-study/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/kthrc/Algorithm-study/tree/main/0739-daily-temperatures/) | Medium |
+<!---LeetCode Topics End-->
