@@ -72,7 +72,7 @@
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
-| 200  | Number of Islands               | ✅   |   |   |            |    |
+| 200  | Number of Islands               | ✅   |   | 739  | Daily Temperatures           | ✅   |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
