@@ -6,6 +6,7 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+
 ### Silver
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -28,6 +29,7 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+
 ### Gold
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -44,6 +46,7 @@
 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 
 ### Lv.1
 
@@ -63,6 +66,7 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+
 ### Lv.2
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -79,6 +83,8 @@
 
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+
 ### Lv.2
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -87,6 +93,7 @@
 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 
 ### Lv.3
 
@@ -104,6 +111,7 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+
 ### Easy
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -112,6 +120,7 @@
 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 
 ### Medium
 
