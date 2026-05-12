@@ -1,8 +1,10 @@
 # Algorithm-study
 해결한 문제 순으로 나열
-
-
+ 
 ## 💻 Baekjoon
+
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### Silver
 
@@ -24,6 +26,8 @@
 | 1446  | 지름길             | ✅   |   | 1629  |  곱셈               | ✅     |
 
 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 ### Gold
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -37,6 +41,9 @@
 
 
 ## 💻 Programmers 
+
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### Lv.1
 
@@ -54,6 +61,8 @@
 | 176963  | 추억 점수      | ✅   |   |     |       | |
 
 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 ### Lv.2
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -68,6 +77,17 @@
 | 12924  | 숫자의 표현                 | ✅   |   | 12981   | 영어 끝말잇기 | ✅   |
 | 17683  | 방금그곡                 | ✅   |   |    |  |    |
 
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+### Lv.2
+
+| 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
+|:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
+| 131529  | 카테고리 별 상품 개수 구하기               | ✅   |   |   |           |    |
+
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 ### Lv.3
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
@@ -81,12 +101,17 @@
 
 ## 💻 LeetCode 
 
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 ### Easy
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
 | 104  | Maximum Depth of Binary Tree               | ✅   |   |   |             |    |
 
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### Medium
 
