@@ -1,13 +1,11 @@
 # Algorithm-study
 해결한 문제 순으로 나열
+
  
 ## 💻 Baekjoon
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-### Silver
+### Silver  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -27,10 +25,7 @@
 | 1446  | 지름길             | ✅   |   | 1629  |  곱셈               | ✅     |
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-### Gold
+### Gold  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -42,13 +37,11 @@
 ---
 
 
+
 ## 💻 Programmers 
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-### Lv.1
+### Lv.1  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -64,10 +57,7 @@
 | 176963  | 추억 점수      | ✅   |   |     |       | |
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-### Lv.2
+### Lv.2  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -82,20 +72,14 @@
 | 17683  | 방금그곡                 | ✅   |   |    |  |    |
 
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-
-
-### Lv.2
+### Lv.2  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
 | 131529  | 카테고리 별 상품 개수 구하기               | ✅   |   |   |           |    |
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-### Lv.3
+### Lv.3  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -103,10 +87,7 @@
 | 42628  | 이중우선순위큐               | ✅   |   |   |           |    |
 
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-
-
-### Lv.3
+### Lv.3  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -115,23 +96,19 @@
 ---
 
 
+
 ## 💻 LeetCode 
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-### Easy
+### Easy  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
 | 104  | Maximum Depth of Binary Tree               | ✅   |   |   |             |    |
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-
-### Medium
+### Medium  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
