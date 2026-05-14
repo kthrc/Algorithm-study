@@ -5,7 +5,7 @@
 ## 💻 Baekjoon
 
 
-### Silver &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Silver &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -25,7 +25,7 @@
 | 1446  | 지름길             | ✅   |   | 1629  |  곱셈               | ✅     |
 
 
-### Gold &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Gold &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -41,7 +41,7 @@
 ## 💻 Programmers 
 
 
-### Lv.1 &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Lv.1 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -57,7 +57,7 @@
 | 176963  | 추억 점수      | ✅   |   |     |       | |
 
 
-### Lv.2 &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -72,14 +72,14 @@
 | 17683  | 방금그곡                 | ✅   |   |    |  |    |
 
 
-### Lv.2 &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
 | 131529  | 카테고리 별 상품 개수 구하기               | ✅   |   |   |           |    |
 
 
-### Lv.3 &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Lv.3 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
@@ -87,18 +87,18 @@
 | 42628  | 이중우선순위큐               | ✅   |   |   |           |    |
 
 
-### Lv.3 &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+### Lv.3 &nbsp; &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
 | 144855  | 카테고리 별 도서 판매량 집계하기               | ✅   |   |   |           |    |
 
 
-### Lv.4 &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+### Lv.4 &nbsp; &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 | 번호   | 문제 내용                 | 풀이 |   | 번호   | 문제 내용                 | 풀이 |
 |:------:|:--------------------------|:----:|---|:------:|:--------------------------|:----:|
-| 131117  | 5월 식품들의 총매출 조회하기    | ✅   |   |   |           |    |
+| 131117  | 5월 식품들의 총매출 조회하기    | ✅   |   | 131118  | 서울에 위치한 식당 목록 출력하기          |  ✅  |
 
 
 ---
