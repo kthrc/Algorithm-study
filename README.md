@@ -56,7 +56,7 @@
 | 12930  | 이상한 문자 만들기      | ✅   |   | 12915    | 문자열 내 마음대로 정렬하기       | ✅ |
 | 12926  | 시저 암호      | ✅   |   | 132267    | 콜라 문제      | ✅ |
 | 176963  | 추억 점수      | ✅   |   | 12982    |  예산     | ✅ |
-| 70128  |  내적     | ✅  |   |     |      |  |
+| 70128  |  내적     | ✅  |   | 12901    | 2016년     | ✅ |
 
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
