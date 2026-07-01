@@ -89,6 +89,7 @@
 | 293260   | 월별 잡은 물고기 수 구하기 | ✅   |   | 131530 | 가격대 별 상품 개수 구하기  | ✅  |
 |  59408  | 중복 제거하기 | ✅   |   | 293257 |  물고기 종류 별 잡은 수 구하기 | ✅ |
 |  164672  |  조건에 부합하는 중고거래 상태 조회하기 | ✅   |   | 59406 | 동물 수 구하기 | ✅|
+|  59047  | 이름에 el이 들어가는 동물 찾기 | ✅   |   |  |  | |
 
 
 ### Lv.3 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
