@@ -90,7 +90,7 @@
 |  59408  | 중복 제거하기 | ✅   |   | 293257 |  물고기 종류 별 잡은 수 구하기 | ✅ |
 |  164672  |  조건에 부합하는 중고거래 상태 조회하기 | ✅   |   | 59406 | 동물 수 구하기 | ✅|
 |  59047  | 이름에 el이 들어가는 동물 찾기 | ✅   |   | 59038  | 최솟값 구하기 | ✅|
-| 59410  | NULL 처리하기 | ✅   |   |   |   | |
+| 59410  | NULL 처리하기 | ✅   |   | 59414  | DATETIME에서 DATE로 형 변환  | ✅ |
 
 
 ### Lv.3 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
