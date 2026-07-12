@@ -92,6 +92,7 @@
 |  59047  | 이름에 el이 들어가는 동물 찾기 | ✅   |   | 59038  | 최솟값 구하기 | ✅|
 | 59410  | NULL 처리하기 | ✅   |   | 59414  | DATETIME에서 DATE로 형 변환  | ✅ |
 |  298518 | 특정 물고기를 잡은 총 수 구하기 | ✅   |   |  59412 | 입양 시각 구하기(1) | ✅ |
+| 131536   | 재구매가 일어난 상품과 회원 리스트 구하기 | ✅   |   |   |  |  |
 
 
 ### Lv.3 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
