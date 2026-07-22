@@ -58,7 +58,7 @@
 | 176963  | 추억 점수      | ✅   |   | 12982    |  예산     | ✅ |
 | 70128  |  내적     | ✅  |   | 12901    | 2016년     | ✅ |
 | 76501  |  음양 더하기     | ✅  |   |  12932   | 자연수 뒤집어 배열로 만들기     | ✅ |
-| 68644  | 두 개 뽑아서 더하기    | ✅  |   |     |     |  |
+| 68644  | 두 개 뽑아서 더하기    | ✅  |   |  12969  | 직사각형 별찍기 | ✅  |
 
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
