@@ -61,6 +61,7 @@
 | 68644  | 두 개 뽑아서 더하기    | ✅  |   |  12969  | 직사각형 별찍기 | ✅  |
 |  340199 | [PCCE 기출문제] 9번 / 지폐 접기   | ✅  |   |  12950  | 행렬의 덧셈| ✅ |
 | 142086   | 가장 가까운 같은 글자 | ✅  |   |  147355  | 크기가 작은 부분 문자열 | ✅  |
+|  12940  | 최대공약수와 최소공배수 | ✅  |   |    |  | |
 
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
