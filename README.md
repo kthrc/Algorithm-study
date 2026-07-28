@@ -76,7 +76,7 @@
 | 42839  | 소수 찾기                 | ✅   |   | 12951   | JadenCase 문자열 만들기 | ✅   |
 | 81301  | 숫자 문자열과 영단어                 | ✅   |   |  12973  | 짝지어 제거하기 | ✅   |
 | 12924  | 숫자의 표현                 | ✅   |   | 12981   | 영어 끝말잇기 | ✅   |
-| 17683  | 방금그곡                 | ✅   |   |    |  |    |
+| 17683  | 방금그곡                 | ✅   |   |  12977  | 소수 만들기 |   ✅   |
 
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
