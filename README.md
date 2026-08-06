@@ -80,7 +80,7 @@
 | 12924  | 숫자의 표현                 | ✅   |   | 12981   | 영어 끝말잇기 | ✅   |
 | 17683  | 방금그곡                 | ✅   |   |  12977  | 소수 만들기 |   ✅   |
 |  12953 |     N개의 최소공배수       | ✅   |   |  12914  | 멀리 뛰기  |    ✅  |
-
+|  138476 |  귤 고르기   | ✅   |   |    |    |      |
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
