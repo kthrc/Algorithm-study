@@ -64,6 +64,7 @@
 |  12940  | 최대공약수와 최소공배수 | ✅  |   | 131705   | 삼총사 | ✅|
 |  86491  | 최소직사각형 | ✅  |   | 77884   | 약수의 개수와 덧셈 | ✅ |
 |  136798  | 기사단원의 무기 | ✅  |   |  159994  | 카드 뭉치  | ✅ |
+|  133499  | 옹알이 (2) |✅  |   |    |   |  |
 
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
