@@ -65,6 +65,7 @@
 |  86491  | 최소직사각형 | ✅  |   | 77884   | 약수의 개수와 덧셈 | ✅ |
 |  136798  | 기사단원의 무기 | ✅  |   |  159994  | 카드 뭉치  | ✅ |
 |  133499  | 옹알이 (2) |✅  |   |  135808  | 과일 장수  | ✅ |
+| 42840   | 모의고사 |✅  |   |    |  |  |
 
 
 ### Lv.2 &nbsp; &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
